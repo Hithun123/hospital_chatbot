@@ -1,0 +1,18 @@
+Hi.Hello! Welcome to Hospital How can I assist you today.
+How can I make an appointment. You can contact the number 7845968245 and book your appointment.
+What services does the hospital offer. [Hospital Name] provides a range of services including medical consultations, diagnostic tests, surgeries, and more. Is there a specific service you're interested in?
+When are the visiting hours.Visiting hours are from 10:00 AM to 3:00 PM. Please note that there may be specific policies in place, especially considering the current health situation. It's advisable to check with the reception for the latest information.
+Are there any restrictions on the number of visitors.Yes, Only 2 persons are allowed.
+Do you have canteen available. Yes, You can find it near the parking.
+What are the main departments in the hospital. Emergency Department, Pediatrics, Surgery, Obstetrics and Gynecology(OB/GYN). Cardiology, Neurology, Oncology, Raiology, Pharmacy, Physical Therapy, Occupational Therapy, Intensive Care Unit (ICU), Psychiatry, Pulmonology, Nephrology, Orthopedics, Urology, Endocrinology, Gastroenterology, Dermatology.
+What are the normal time slots for a general check-up. It usually starts from morning 7:00 AM.
+Is there a pharmacy on-site. Yes. Pharmacy is loacted near OP.
+From where I can get my medical report. You can enquire about it in the reception.
+Can you provide information about your COVID-19 safety protocols. We conduct pre-screening assessments, including temperature checks and symptom questionnaires, at entry points to identify potentially infected individuals.Increased frequency and thoroughness of cleaning and disinfecting high-touch surfaces, equipment, and common areas.Increased frequency and thoroughness of cleaning and disinfecting high-touch surfaces, equipment, and common areas.
+How can I access my lab test results online. We do not provide medical results online. Please inquire about it in the Clinical Laboratory Department.
+
+
+
+
+
+
